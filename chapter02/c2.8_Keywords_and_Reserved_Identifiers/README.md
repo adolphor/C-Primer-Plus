@@ -1,0 +1,63 @@
+# 关键字
+
+* auto
+* break
+* case
+* char
+* const
+    - C90
+* continue
+* default
+* do
+* double
+* else
+* enum
+    - C90
+* extern
+* float
+* for
+* goto
+* if
+* inline
+    - C99
+* int
+* long
+* register
+* restrict
+* return
+* short
+* signed
+    - C90
+* sizeof
+* static
+* struct
+* switch
+* typedef
+* union
+* unsigned
+* void
+* volatile
+    - C90
+* while
+* _Alignas
+    - C11
+* _Alignof
+    - C11
+* _Atomic
+    - C11
+* _Bool
+    - C11
+* _Complex
+    - C11
+* _Generic
+    - C11
+* _Imaginary
+    - C11
+* _Noreturn
+    - C11
+* _Static_assert
+    - C11
+* _Thread_local
+    - C11
+
+
