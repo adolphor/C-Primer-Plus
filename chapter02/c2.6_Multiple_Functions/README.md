@@ -15,3 +15,5 @@ cc chapter02/c2.6_Multiple_Functions/two_func.c
 ./a.out
 ```
 
+更多函数的相关知识，查看第9章。
+
