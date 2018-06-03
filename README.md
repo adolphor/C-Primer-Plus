@@ -21,6 +21,7 @@ C-Primer-Plus book notes
 
 # 练习
 * [有哪些适合新手练手的C/C++项目？](https://zhuanlan.zhihu.com/p/23047091)
+* [随书源码【提取码：ed11】](https://box.lenovo.com/l/yJ4bt8)
 
 怎么学习C语言指针：
 1:指针数组是一个数组，它的元素是一个指针
